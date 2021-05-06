@@ -14,6 +14,7 @@
 		8F0CB46D26411AD200A083EE /* EnglishToSindhi.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8F0CB46B26411AD200A083EE /* EnglishToSindhi.xcdatamodeld */; };
 		8F0CB46F26411AD400A083EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F0CB46E26411AD400A083EE /* Assets.xcassets */; };
 		8F0CB47226411AD400A083EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F0CB47026411AD400A083EE /* LaunchScreen.storyboard */; };
+		8F0CB47B26411FA600A083EE /* Dictionary.json in Resources */ = {isa = PBXBuildFile; fileRef = 8F0CB47A26411FA600A083EE /* Dictionary.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8F0CB46E26411AD400A083EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8F0CB47126411AD400A083EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F0CB47326411AD400A083EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F0CB47A26411FA600A083EE /* Dictionary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Dictionary.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				8F0CB47026411AD400A083EE /* LaunchScreen.storyboard */,
 				8F0CB47326411AD400A083EE /* Info.plist */,
 				8F0CB46B26411AD200A083EE /* EnglishToSindhi.xcdatamodeld */,
+				8F0CB47A26411FA600A083EE /* Dictionary.json */,
 			);
 			path = EnglishToSindhi;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F0CB47226411AD400A083EE /* LaunchScreen.storyboard in Resources */,
+				8F0CB47B26411FA600A083EE /* Dictionary.json in Resources */,
 				8F0CB46F26411AD400A083EE /* Assets.xcassets in Resources */,
 				8F0CB46A26411AD200A083EE /* Main.storyboard in Resources */,
 			);

@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="false" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D91" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Entity" representedClassName="Entity" syncable="YES" codeGenerationType="class">
+        <attribute name="adjective" optional="YES" attributeType="String"/>
+        <attribute name="adverb" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="meaning" optional="YES" attributeType="String"/>
+        <attribute name="noun" optional="YES" attributeType="String"/>
+        <attribute name="prepostion" optional="YES" attributeType="String"/>
+        <attribute name="pronoun" optional="YES" attributeType="String"/>
+        <attribute name="usage" optional="YES" attributeType="String"/>
+        <attribute name="verb" optional="YES" attributeType="String"/>
+        <attribute name="word" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Entity" positionX="-63" positionY="-18" width="128" height="179"/>
+    </elements>
 </model>
